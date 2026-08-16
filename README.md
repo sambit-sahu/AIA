@@ -1,3 +1,3 @@
 # AIA
 Repository for AI projects
-Author - Victor
+Author - Sambit
